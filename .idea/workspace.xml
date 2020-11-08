@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab730153-d6ec-4b86-b528-d39a856dc8b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1jyPcSWnymjH4Vh5iiDTQgXx1Y2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/OnlineShoppingCart-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MustafaOnlineShopping" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.MustafaOnlineShopping" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab730153-d6ec-4b86-b528-d39a856dc8b5" name="Default Changelist" comment="" />
+      <created>1604773437543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604773437543</updated>
+      <workItem from="1604773438582" duration="7518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="177" width="700" height="759" key="#PHP" timestamp="1604784887989">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="605" y="177" width="700" height="759" key="#PHP/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1604784887989" />
+    <state x="543" y="211" width="824" height="691" key="#Test_Frameworks" timestamp="1604784901578">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="543" y="211" width="824" height="691" key="#Test_Frameworks/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1604784901578" />
+    <state x="642" y="355" width="698" height="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604774506853">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="642" y="355" width="698" height="410" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1604774506853" />
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604775243847">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1604775243847" />
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1604805806372">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1604805806372" />
+    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1604805806372">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1604805806372" />
+    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1604805806372">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1604805806372" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1604805806372">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1604805806372" />
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1604807056438">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1604807056438" />
+  </component>
+</project>

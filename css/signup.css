@@ -1,0 +1,77 @@
+body.signup{
+    padding-top: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.signup form{
+    display: inline-block;
+    padding: 50px;
+    border-radius: 10px;
+    border: 1px solid rgb(121, 173, 61);
+    text-align: center;
+}
+.signup .formHeading{
+    color: rgb(121, 173, 61);
+    font-family: 'Cairo', sans-serif;
+    font-size: 18px;
+}
+.signup .formSubHeading{
+    color: rgb(255,255,254);
+    font-family: 'Cairo', sans-serif;
+    font-size: 12px;
+    letter-spacing: 5px;
+    padding: 0px 0px 0px 7px;
+    background-color: rgb(121, 173, 61);
+}
+.signup label{
+    margin: auto 50px;
+    text-align: left;
+    padding-left: 20px;
+}
+.signup input[type=text], [type=password]{
+    background-color: transparent;
+    width: 300px;
+    color: rgb(29, 51, 74);
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid rgb(121, 173, 61);
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: 'Cairo', sans-serif;
+}
+.signup input:hover{
+    box-shadow : 0px 0px 3px rgba(121, 173, 61, 0.3) inset;
+}
+.signup input:focus{
+    outline: none;
+    box-shadow : 0px 0px 3px rgba(121, 173, 61, 0.3) inset;
+}
+.signup input[type=submit] {
+    width: 100px;
+    background-color: rgb(121, 173, 61);
+    color: white;
+    padding: 5px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Cairo', sans-serif;
+    font-size: 15px;
+}
+.signup error{
+    color:rgb(9, 18, 25);
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+}
+.signup a.new {
+    color: rgb(121, 173, 61);
+    font-size: 15px;
+    padding: 10px;
+    margin-top: 7px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Cairo', sans-serif;
+}
